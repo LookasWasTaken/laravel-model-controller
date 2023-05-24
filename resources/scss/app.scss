@@ -1,1 +1,10 @@
 @import '~bootstrap/scss/bootstrap';
+
+.card{
+    border: none;
+}
+
+.card-header{
+    border: none;
+    background-color: inherit;
+}
